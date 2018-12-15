@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andrewmiller1/empty-npm-pkg/issues"
   },
-  "homepage": "https://github.com/andrewmiller1/empty-npm-pkg#readme"
+  "homepage": "https://github.com/andrewmiller1/empty-npm-pkg#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
 }
